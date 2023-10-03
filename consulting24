@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Crypto Regulation & Licensing</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Crypto Regulation & Licensing</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Importance of Regulation</h2>
+            <p>Crypto regulation is crucial to...</p>
+        </section>
+        <section>
+            <h2>Getting a Crypto License</h2>
+            <p>Obtaining a crypto license...</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 YourCryptoPage</p>
+    </footer>
+</body>
+</html>
